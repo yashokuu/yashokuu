@@ -1,32 +1,43 @@
-# 👋 Yashokuu
-
-## Developer @ Yashokuu Studio
+# 👋 Hi, I'm Yashokuu!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-15-blue" alt="Age 15">
+  <img src="https://img.shields.io/badge/Age-15-blue" alt="Age 16">
   <img src="https://img.shields.io/badge/Status-Learning-brightgreen" alt="Learning">
 </p>
 
-Hey there! I'm a 15-year-old dev who loves:
-- 🚀 Starting new projects
-- 💡 Creating cool stuff
-- 🕹️ Exploring code
+---
 
-<details>
-<summary>🤔 My Coding Journey</summary>
+## 🚀 About Me
 
-Currently diving into:
-- 🐍 Python
-- 💻 JavaScript
-
-*Pro tip: My superpower is procrastination and giving up halfway!*
-</details>
-
-### 🌟 Currently Working On
-- Learning programming basics
-- Trying not to get distracted
-- Goofing around (professionally)
+- 🧑‍💻 **Developer @ Yashokuu Studio**
+- 🎂 15 years old
+- 🌱 Always learning and experimenting
+- 🎮 Passionate about coding, games, and tech
+- 🦊 Firefox Add-on Developer
 
 ---
 
-*Work in progress... always* 😄
+## 🛤️ My Coding Journey
+<details>
+<summary>Click to expand!</summary>
+
+- 🐍 Currently learning **Python**
+- 💻 Exploring **JavaScript**
+- 🛠️ Love building new projects and tinkering
+- 🤹‍♂️ Sometimes get distracted (procrastination is my superpower!)
+
+</details>
+
+---
+
+## 🌟 What I'm Working On
+
+- Mastering programming basics
+- Building fun and useful stuff
+- Trying not to get distracted (wish me luck!)
+
+---
+
+<p align="center">
+  <em>Work in progress... always! 😄</em>
+</p>
