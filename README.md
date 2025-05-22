@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🧑‍💻 **Developer @ Yashokuu Studio**
-- 🎂 15 years old
+- 🎂 16 years old
 - 🌱 Always learning and experimenting
 - 🎮 Passionate about coding, games, and tech
 - 🦊 Firefox Add-on Developer
