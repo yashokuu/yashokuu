@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yashokuu!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-15-blue" alt="Age 16">
+  <img src="https://img.shields.io/badge/Age-16-blue" alt="Age 16">
   <img src="https://img.shields.io/badge/Status-Learning-brightgreen" alt="Learning">
 </p>
 
