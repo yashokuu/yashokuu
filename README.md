@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yashokuu!
+# 👋 Hi, I'm ヤショクウ (Yashokuu)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-16-blue" alt="Age 16">
